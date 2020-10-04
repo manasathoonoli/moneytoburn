@@ -1,0 +1,172 @@
+Country,meanWealthInDollar,CountryCode
+Afghanistan,1463,AFG
+Albania,31366,ALB
+Algeria,9348,DZA
+Angola,3649,AGO
+Antigua and Barbuda,24964,ATG
+Argentina,10256,ARG
+Armenia,19517,ARM
+Aruba,58033,ABW
+Australia,386058,AUS
+Austria,274919,AUT
+Azerbaijan,11865,AZE
+Bahamas,76507,BHS
+Bahrain,87108,BHR
+Bangladesh,6643,BGD
+Barbados,64658,BRB
+Belarus,16590,BLR
+Belgium,246135,BEL
+Belize,10864,BLZ
+Benin,845,BEN
+Bolivia,11672,BOL
+Bosnia and Herzegovina,27873,BIH
+Botswana,14684,BWA
+Brazil,23550,BRA
+Brunei,44541,BRN
+Bulgaria,42686,BGR
+Burkina Faso,1440,BFA
+Burundi,609,BDI
+Cambodia,5395,KHM
+Cameroon,2840,CMR
+Canada,294255,CAN
+Central African Republic,749,CAF
+Chad,1167,TCD
+Chile,56972,CHL
+China,58544,CHN
+Colombia,16411,COL
+Comoros,5155,COM
+Congo Republic of,2701,COG
+Costa Rica,33683,CRI
+Croatia,62804,HRV
+Cyprus,116207,CYP
+Czech Republic,64663,CSK
+Democratic Republic of the Congo,1084,COD
+Denmark,284022,DNK
+Djibouti,2936,DJI
+Dominica,33306,DMA
+Ecuador,19144,ECU
+Egypt,15395,EGY
+El Salvador,29870,SLV
+Equatorial Guinea,17023,GNQ
+Eritrea,4134,ERI
+Estonia,78458,EST
+Ethiopia,3085,ETH
+Fiji,15598,FJI
+Finland,183124,FIN
+France,276121,FRA
+Gabon,15113,GAB
+Gambia,2141,GMB
+Georgia,12609,GEO
+Germany,216654,DEU
+Ghana,1706,GHA
+Greece,40000,GRC
+Grenada,12218,GRD
+Guinea,802,GIN
+Guinea-Bissau,655,GNB
+Guyana,3829,GUY
+Haiti,214,HTI
+Hong Kong,146887,HKG
+Hungary,17666,HUN
+Iceland,165961,ISL
+India,14569,IND
+Indonesia,10545,IDN
+Iran,13437,IRN
+Iraq,16540,IRQ
+Ireland,272310,IRL
+Israel,196568,ISR
+Italy,234139,ITA
+Jamaica,20878,JAM
+Japan,238104,JPN
+Jordan,26475,JOR
+Kazakhstan,26317,KAZ
+Kenya,9791,KEN
+Kuwait,131269,KWT
+Kyrgyzstan,5758,KGZ
+Laos,6720,LAO
+Latvia,60347,LVA
+Lebanon,55226,LBN
+Lesotho,1313,LSO
+Liberia,2169,LBR
+Libya,19473,LBY
+Lithuania,50254,LTU
+Luxembourg,358003,LUX
+Madagascar,1610,MDG
+Malawi,1313,MWI
+Malaysia,31270,MYS
+Maldives,23297,MDV
+Mali,1955,MLI
+Malta,143566,MLT
+Mauritania,2397,MRT
+Mauritius,50796,MUS
+Mexico,31553,MEX
+Moldova,12804,MDA
+Mongolia,6135,MNG
+Montenegro,53484,MNE
+Morocco,12929,MAR
+Mozambique,880,MOZ
+Myanmar,3323,MMR
+Namibia,17220,NAM
+Nepal,3870,NPL
+Netherlands,279077,NLD
+New Zealand,304124,NZL
+Nicaragua,9279,NIC
+Niger,1126,NER
+Nigeria,4881,NGA
+Norway,267348,NOR
+Oman,43291,OMN
+Pakistan,4096,PAK
+Panama,39980,PAN
+Papua New Guinea,6485,PNG
+Paraguay,11865,PRY
+Peru,17843,PER
+Philippines,12063,PHL
+Poland,57873,POL
+Portugal,131088,PRT
+Qatar,147745,QAT
+Romania,43074,ROU
+Russia,27381,RUS
+Rwanda,3435,RWA
+Samoa,37066,WSM
+Sao Tome and Principe,3654,STP
+Saudi Arabia,67032,SAU
+Senegal,4265,SEN
+Serbia,25046,SRB
+Seychelles,57835,SYC
+Sierra Leone,693,SLE
+Singapore,297873,SGP
+Slovakia,66171,SVK
+Slovenia,122508,SVN
+Solomon Islands,12933,SLB
+South Africa,21380,ZAF
+South Korea,175015,KOR
+Spain,207531,ESP
+Sri Lanka,20628,LKA
+St. Lucia,36586,LCA
+St. Vincent and the Grenadines,20088,VCT
+Sudan,534,SDN
+Suriname,6089,SUR
+Sweden,265260,SWE
+Switzerland,564653,CHE
+Syria,2179,SYR
+Taiwan,210525,TWN
+Tajikistan,3602,TJK
+Tanzania,3069,TZA
+Thailand,21853,THA
+Timor-Leste,5143,TLS
+Togo,1241,TGO
+Tonga,47889,TON
+Trinidad and Tobago,41094,TTO
+Tunisia,13853,TUN
+Turkey,24398,TUR
+Turkmenistan,15691,TKM
+Uganda,1603,UGA
+Ukraine,8792,UKR
+United Arab Emirates,117060,ARE
+United Kingdom,280049,GBR
+United States,432365,USA
+Uruguay,30320,URY
+Vanuatu,15090,VUT
+Vietnam,11712,VNM
+Yemen,4926,YEM
+Zambia,2565,ZMB
+Zimbabwe,4734,ZWE
